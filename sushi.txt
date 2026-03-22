@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Receta de Sushi</title>
+</head>
+<body bgcolor="#FFD580">
+<body>
+   <center>
+       <h1>Receta: "Sushi"</h1>
+       <img src="https://www.unileverfoodsolutions.com.mx/dam/global-ufs/mcos/NOLA/calcmenu/recipes/MX-recipes/general/sushi-empanizado/main-header.jpg" width="350">
+       <h2>Ingredientes</h2>
+       <p>
+       4 tazas de arroz de sushi<br>
+       Alga nori<br>
+       200g de ajonjolí<br>
+       Pepino<br>
+       Surimi<br>
+       Queso crema<br>
+       Aguacate<br>
+       </p>
+       <h2>Preparación</h2>
+       <p>
+       <h3>Paso 1</h3>
+       Coloca sobre la alga nori el arroz y extiendelo sobre toda la superficie<br>
+       <h3>Paso 2</h3>
+       Agrega ajonjoli sobre todo el arroz<br>
+       <h3>Paso 3</h3>
+       Coloca el pepino,surimi, aguacate y queso crema sobre un lado cuidando que no quede tan pegado a la orilla para poder realizar el dobles<br>
+       <h3>Paso 4</h3>
+       Depués de que quede en forma de rollito apretar con un poco de fuerza para mantener la figura<br>
+       <h3>Paso 5</h3>
+       Cortar en rollitos
+</center>
+</body>
+</html>
